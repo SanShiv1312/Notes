@@ -76,7 +76,7 @@ The ability for us to understand our system in a global view or at the detailed 
 Easier to understand systems are more coherent.
 With good software, it’s harder for us to create defects, and it’s faster to make changes.
 
-**Further classification of Qualities**
+##### Further classification of Qualities
 The software product can be judged by what it offer and how well it can be used .
 furthermore, the software must satisfied on the following grounds :
 - _Operational_
@@ -116,6 +116,62 @@ software, delivered on time and within budget, that satisfies the client’s nee
 - To develop a software, we need to go from one layer to another.
 - All these layers are related to each other and each layer demands the fulfillment of the previous layer.
 
-                   ` QUALITY_FOCUS -- PROCESS -- METHODS -- TOOLS `
+-   `  QUALITY_FOCUS -- PROCESS -- METHODS -- TOOLS `
 
-### LIFE-CYCLE MODELS 
+### LIFE-CYCLE MODELS  
+Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates.
+- It consists of a detailed plan describing how to develop, maintain, replace and alter or
+enhance specific software
+- Life cycles defines a methodology for the betterment of the quality of a software and the overall development processes
+
+#### Process framework: activities
+The followings are the key activities of process models:
+-  `Communication`: communication and collaboration between developer and
+customer or stakeholder.
+-  `Planning`: technical task to be conducted, risk analysis, resources required, work
+schedule.
+-  `Modeling` : creation of model for better understanding
+-  `Construction` : combination of code generation and testing.
+   Deployment software is delivered to customers and getting feedback
+
+### `WATERFALL-MODEL`
+The Waterfall Model was the _first Process Model_ to be introduced. It is also referred to as a _linear-sequential life cycle model_. It is very simple to understand and use and is popularly known as **Traditional System analysis or SDLC**  
+#### `Main Objectives` :
+- This model suggests a sequential and systematic approach of Software development that begins at the system level and progresses through analysis, design, coding, testing, and support.
+- `  COMMUNICATION -> PLANNING -> MODELING -> CONSTRUCTION -> DEPLOYMENT  `
+- Any phase in the development process begins only if the previous phase is complete.
+- In this waterfall model, the phases do not overlap
+- In clear terms , we can state the traditional SDLC's methodology as `the outcome of one phase acts as the input for the next phase sequentially`.
+- All the phases are cascaded to each other in which progress is seen as flowing steadily downwards _(like a waterfall)_ through the phases
+
+##### Applications of Waterfall-Model
+Every software that is to developed will be different and requires a suitable SDLC approach considering internal and external factors
+Appropriate situations where we can use rainfall model are :
+- Requirements are `very well documented`, clear and fixed.
+- Product definition is `stable`
+- Technology is understood and is `not dynamic`
+- There are `no ambiguous` requirements
+- Ample resources with required expertise are available to support the product
+- The project is `short`
+
+##### Advantages of Waterfall-Model
+Development moves from concept, through design, implementation, testing, installation, troubleshooting, and ends up at operation and maintenance. Each phase of development proceeds in strict order which is very transparent to have.
+- `Easy to understand` and implement.
+- Widely used and known
+- Reinforces good habits: define-before- design, design-before-code
+- Identifies deliverables and milestones
+- Document driven
+- `Maintenance` is easier
+- `Clearly defined stages` of development
+
+##### Disadvantages of Waterfall-Model
+ Waterfall development does not allow much reflection or revision. Once an application is in the testing stage, it is very difficult to go back and change something that was not well-documented or thought upon in the concept stage.
+- No working software is produced until late during the life cycle.
+- `High amounts of risk` and uncertainty.
+- Not a good model for `complex` and `object-oriented projects`.
+- `Poor model for long` and ongoing projects.
+- Not suitable for the projects where `requirements are at a moderate to high`
+  risk of changing.
+- Delivered product may not meet client needs
+- Difficult to `measure the progress` within the stages of development
+- Cannot accommodates to `changing requirements` 
