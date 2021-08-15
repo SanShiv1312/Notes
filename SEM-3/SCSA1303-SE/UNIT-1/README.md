@@ -174,4 +174,67 @@ Development moves from concept, through design, implementation, testing, install
   risk of changing.
 - Delivered product may not meet client needs
 - Difficult to `measure the progress` within the stages of development
-- Cannot accommodates to `changing requirements` 
+- Cannot accommodates to `changing requirements`
+
+### `INCREMENTAL-MODEL`
+- Incremental Model is a process of software development where requirements divided into multiple standalone modules of the software development cycle.
+- Software is constructed step by step, just like a building Construction.
+- This model will just combines the elements of waterfall model and then applied iteratively in each increment
+
+#### The various phases of incremental model are as follows :
+
+1. `Requirement analysis` : In the first phase of the incremental model, the product analysis expertise identifies the requirements. And the system functional requirements are understood by the requirement analysis team. To develop the software under the incremental model, this phase performs a crucial role.
+
+2. `Design & Development` : In this phase of the Incremental model of SDLC, the design of the system functionality and the development method are finished with success. When software develops new practicality, the incremental model uses style and development phase.
+
+3. `Testing` : In the incremental model, the testing phase checks the performance of each existing function as well as additional functionality. In the testing phase, the various methods are used to test the behavior of each task.
+
+4. `Implementation` : Implementation phase enables the coding phase of the development system. It involves the final coding that design in the designing and development phase and tests the functionality in the testing phase. After completion of this phase, the number of the product working is enhanced and upgraded up to the final system product
+
+#### When to use the **`Incremental`** Model ?
+- When the `requirements are superior`.
+- A project has a `lengthy development schedule`.
+- When Software team are `not very well skilled or trained`.
+- When the customer `demands a quick release` of the product.
+- You can develop `prioritized requirements` first.
+
+#### Advantage of Incremental Model
+- Errors are easy to be recognized.
+- Easier to test and debug
+- More `flexible`.
+- Simple to manage risk because it handled during its iteration.
+- The Client gets important `functionality early`.
+- With each release a new feature is added to the product.
+- Customer can `respond to feature` and `review the product`.
+- Risk of changing requirement is reduced
+- Work `load is less`
+
+#### Disadvantage of Incremental Model
+- Need for `good planning`
+- Total `Cost is higher` than the waterfall model
+- `Well defined` module interfaces are needed.
+- Mostly such model is used in `web applications and product` based companies
+
+
+### `SPIRAL-MODEL`
+- The spiral model combines the idea of iterative development with the systematic, controlled aspects of the waterfall model.
+- This Spiral model is a combination of iterative development process model and sequential linear development model
+- Like waterfall model with a very high emphasis on risk analysis.
+- It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
+
+#### Phases of Spiral model
+- `Identification`
+ This phase starts with gathering the business requirements in the baseline spiral. In the subsequent spirals as the product matures, identification of system requirements, subsystem requirements and unit requirements are all done in this phase.
+
+     This phase also includes understanding the system requirements by continuous communication between the customer and the system analyst. At the end of the spiral, the product is deployed in the identified market.
+
+- `Design`
+The Design phase starts with the conceptual design in the baseline spiral and involves architectural design, logical design of modules, physical product design and the final design in the subsequent spirals.
+
+- `Construct or Build`
+The Construct phase refers to production of the actual software product at every spiral. In the baseline spiral, when the product is just thought of and the design is being developed a POC (Proof of Concept) is developed in this phase to get customer feedback.
+
+     Then in the subsequent spirals with higher clarity on requirements and design details a working model of the software called build is produced with a version number. These builds are sent to the customer for feedback.
+
+- `Evaluation and Risk Analysis`
+Risk Analysis includes identifying, estimating and monitoring the technical feasibility and management risks, such as schedule slippage and cost overrun. After testing the build, at the end of first iteration, the customer evaluates the software and provides feedback.
