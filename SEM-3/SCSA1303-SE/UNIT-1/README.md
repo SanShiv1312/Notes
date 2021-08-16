@@ -221,6 +221,7 @@ Development moves from concept, through design, implementation, testing, install
 - This Spiral model is a combination of iterative development process model and sequential linear development model
 - Like waterfall model with a very high emphasis on risk analysis.
 - It allows incremental releases of the product or incremental refinement through each iteration around the spiral.
+- Attempts are made to mitigate every potential risk, in some cases by building a prototype.  
 
 #### Phases of Spiral model
 - `Identification` :
@@ -238,3 +239,25 @@ The Construct phase refers to production of the actual software product at every
 
 - `Evaluation and Risk Analysis` :
 Risk Analysis includes identifying, estimating and monitoring the technical feasibility and management risks, such as schedule slippage and cost overrun. After testing the build, at the end of first iteration, the customer evaluates the software and provides feedback.
+
+#### Advantages of Spiral model :
+- High amount of risk analysis hence, avoidance of Risk is enhanced.
+- Risk handling is major advantage where risk handling and analysis is possible at any phase of the development.
+- Good for large and mission-critical projects.
+- Strong approval and documentation control.
+- Additional Functionality can be added at a later date.
+- Software is produced early in the software life cycle.
+- Project estimates in terms of schedule, cost etc. become more and more realistic as the project moves forward and loops in spiral get completed.
+- It is suitable for high risk projects, where business needs may be unstable.
+- A highly customized product can be developed using this.
+- Even good for satisfying customer the most  
+#### Disadvantages of Spiral model :
+- Can be a costly model to use.
+- Risk analysis requires highly specific expertise.
+- Project’s success is highly dependent on the risk analysis phase.
+- Doesn’t work well for smaller projects.
+- It is not suitable for low risk projects.
+- May be hard to define objective, verifiable milestones.
+- Spiral may continue indefinitely.
+- End of the project may not be known early.
+- Time management and estimation is a little hard thing
