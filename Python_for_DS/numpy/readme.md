@@ -15,7 +15,7 @@
 
 ##### Importing our package [`NumPy`]
 - Once NumPy is installed, import it in your applications by adding the `import` keyword:
-        `import numpy` 
+        ```import numpy```
 
 Now NumPy is imported and we can use it.
 - Example
@@ -28,4 +28,4 @@ print(arr)
 
 ```
 - otherwise we can also use other the other way of importing numpy as np as below
-     `import numpy as np`
+     ```import numpy as np```
