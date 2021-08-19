@@ -18,7 +18,7 @@
 - Edges aren't assigned with any particular direction.
 
 **The connecting lines between two nodes in a graph has two different names, taking their nature into consideration**,
-- **Directed Graph** will have an **Arc** and whereas `Undirected Graph` will have an `Edge`  
+- **Directed Graph** will have an **Arc** and whereas `Undirected Graph` will have an `Edge`.  
 
 ##### Weighted graph :
 - A graph having a weight or a number, associated with each edge.
@@ -35,3 +35,16 @@
 #### Degree :
 - Number of edges connected to a node.
 - In an undirected graph, degree is just the count of lines(edges) around the nodes.
+
+##### In-Degree :
+- The number of edges coming into a vertex in a directed graph is termed as 'In-Degree'.
+- If the In-Degree of a node is zero(0), then it is termed as `Source-node`.
+
+##### Out-Degree :
+- The number of arcs directed away from the vertex in a directed graph is termed as 'Out-Degree'.
+- If the Out-Degree of a node is zero(0), then it is termed as `Sink-node`.
+
+##### Sub-Graph :
+- A graph whose vertices and edges are subsets of another graph.
+- Considering graph G = (V, E) , then the Graph G' =(V', E') is considered as a Sub-Graph of G if V' ⊆ V and E' ⊆ E
+- V refers to Vertices and E refers to Edges and '⊆' refers to subset.
