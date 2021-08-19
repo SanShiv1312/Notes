@@ -4,6 +4,8 @@
 - A Graph is a `non-linear data structure` consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
 - The interconnected objects are represented by points termed as `vertices`, and the links that connect the vertices are called `edges`.
 - Data structure `Graph` is similar to tree , but differs from tree by having a **enclosed loop**.
+- More than one path is allowed between two nodes.
+- Any node of a graph can be a 'starting node'.   
 - In simple words, graph is the collection of verticies and edges, but you can bring out the cycles or the loops.
 -                                   **All trees are graphs, but not all graphs can be trees**
 
@@ -47,4 +49,12 @@
 ##### Sub-Graph :
 - A graph whose vertices and edges are subsets of another graph.
 - Considering graph G = (V, E) , then the Graph G' =(V', E') is considered as a Sub-Graph of G if V' ⊆ V and E' ⊆ E
-- V refers to Vertices and E refers to Edges and '⊆' refers to subset.
+- V refers to `Vertices` and E refers to `Edges` and '⊆' refers to `Subset`.
+
+##### Cycle/Cyclic-Graph :
+- A Cyclic graph is a graph containing at least one graph cycle.
+- A Cycle in a directed graph is a directed path that originates and terminates at same node.
+- A Cyclic graph is a directed graph that contains a path from at least one node back to itself.
+- One which is not cyclic is termed as `Acyclic`  
+- Generally a tree is stated as 'Connected Acyclic Graph'.
+- Tree can also be stated as 'Directed Acyclic Graph' (DAG).
