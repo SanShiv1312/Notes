@@ -22,7 +22,7 @@
 **The connecting lines between two nodes in a graph has two different names, taking their nature into consideration**,
 - **Directed Graph** will have an **Arc** and whereas `Undirected Graph` will have an `Edge`.  
 
-##### -->Weighted graph :
+#### -->Weighted graph :
 - A graph having a weight or a number, associated with each edge.
 - In Weighted graph, each branch is given a numerical weight.
 - Used to compute the shortest path.
@@ -51,7 +51,7 @@
 - Considering graph G = (V, E) , then the Graph G' =(V', E') is considered as a Sub-Graph of G if V' ⊆ V and E' ⊆ E
 - V refers to `Vertices` and E refers to `Edges` and '⊆' refers to `Subset`.
 
-##### -->Cycle/Cyclic-Graph :
+#### -->Cycle/Cyclic-Graph :
 - A Cyclic graph is a graph containing at least one graph cycle.
 - A Cycle in a directed graph is a directed path that originates and terminates at same node.
 - A Cyclic graph is a directed graph that contains a path from at least one node back to itself.
