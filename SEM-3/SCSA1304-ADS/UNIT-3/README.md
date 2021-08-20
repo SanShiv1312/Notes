@@ -6,11 +6,11 @@
 - Data structure `Graph` is similar to tree , but differs from tree by having a **enclosed loop**.
 - More than one path is allowed between two nodes.
 - Any node of a graph can be a 'starting node'.   
-- In simple words, graph is the collection of verticies and edges, but you can bring out the cycles or the loops.
+- In simple words, graph is the collection of vertices and edges, but you can bring out the cycles or the loops.
 -                                   **All trees are graphs, but not all graphs can be trees**
 
 ##### ->Directed graph :
-- It is a graph, i.e., a set of objects that are connected together, where all the `edges are directed` from one vertex to another .
+- It is a graph, i.e., a set of objects that are connected together, where all the `edges are directed` and are `Undirected` from one vertex to another .
 - A directed graph is sometimes called as `Digraph` or `Directed Network`.  
 - Nodes connected with edges, and also the edges are assigned with some particular direction or points a direction.
 
@@ -58,3 +58,11 @@
 - One which is not cyclic is termed as `Acyclic`  
 - Generally a tree is stated as 'Connected Acyclic Graph'.
 - Tree can also be stated as 'Directed Acyclic Graph' (DAG).
+
+#### -->`Representation of Graph` :
+**Multi Dimensional Array - Adjacency Matrix / Sparse Matrix**
+- Adjacency matrix is a sequential representation
+- An adjacency matrix is a square matrix used to represent a finite graph.
+- It is used to represent which nodes are adjacent to each other. i.e. is there any edge connecting nodes to a graph.
+- In this representation, we have to construct a nXn matrix A. If there is any edge from a vertex i to vertex j, then the corresponding element of A, a^(i,j)= 1, otherwise a^(i,j)= 0
+- Matrices that have the majority of their elements equal to zero are the Sparse Matrices.
