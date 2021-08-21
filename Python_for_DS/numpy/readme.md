@@ -14,12 +14,14 @@
 #### Getting started
 
 ##### Importing our package [`NumPy`]
-- Once NumPy is installed, import it in your applications by adding the `import` keyword:
-        ```import numpy```
+Once NumPy is installed, import it in your applications by adding the `import` keyword:
+```python
+import numpy
+```
 
 Now NumPy is imported and we can use it.
-- Example
-```
+Example
+```python
 import numpy
 
 arr = numpy.array([45,18,7,13,12])
@@ -27,5 +29,7 @@ arr = numpy.array([45,18,7,13,12])
 print(arr)
 
 ```
-- otherwise we can also use other the other way of importing numpy as np as below
-     ```import numpy as np```
+otherwise we can also use other the other way of importing numpy as np as below
+```python
+import numpy as np
+```
