@@ -1,6 +1,6 @@
 ## `GRAPHS`
 <p align = center>
-<img src="http://www.btechsmartclass.com/data_structures/ds_images/Graph%201.png" width="50%" />
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/undirectedgraph.png" width="45%" />
 </p>
 
 #### ->Introduction :
@@ -18,7 +18,7 @@
 - Nodes connected with edges, and also the edges are assigned with some particular direction or points a direction.
 
 <p align = center>
-<img src="https://computersciencewiki.org/images/c/c6/Directed_graph.png" width="20%" />
+<img src="https://www.researchgate.net/profile/Hakan-Terelius/publication/265428782/figure/fig4/AS:669498856185861@1536632374551/A-directed-graph-with-7-nodes-and-9-edges.png" width="30%" />
 </p>
 
 #### ->Undirected graph :
@@ -89,21 +89,21 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_RUyWnrklp8gemrscPMZmV7u470ZkKyFDv2jRZnFj2AiXTLkRzFZl3BzPKB8kggQ5RY&usqp=CAU" />
 </p>
 
-#### -->`Representation of Graph` :
-**Multi Dimensional Array - Adjacency Matrix / Sparse Matrix**
+### `REPRESENTATION OF GRAPHS`
+#### --> **Multi Dimensional Array - Adjacency Matrix / Sparse Matrix**
 - Adjacency matrix is a sequential representation
 - An adjacency matrix is a square matrix used to represent a finite graph.
 - It is used to represent which nodes are adjacent to each other. i.e. is there any edge connecting nodes to a graph.
-- In this representation, we have to construct a nXn matrix A. If there is any edge from a vertex i to vertex j, then the corresponding element of A, a^(i,j)= 1, otherwise a^(i,j)= 0
+- In this representation, we have to construct a nXn matrix A. If there is any edge from a vertex i to vertex j, then the corresponding element of A,   a^(i,j)= 1, otherwise a^(i,j)= 0
 - Matrices that have the majority of their elements equal to zero are the Sparse Matrices.
-
-<p align = center>
-<img src="https://1.bp.blogspot.com/-tSAmvx42pII/Ux5EQxZukcI/AAAAAAAACLo/dPccUjxqb5o/s1600/Adjacency+Matrix+Representation+of+Directed+Graph.JPG" />
-</p>
 - If there's no connection between two nodes, it will be marked as 'zero(0)' in the matrix.
 - Similarly a connection between any two nodes, will be marked as 'one(1)' in the corresponding matrix.
 
-**Incidence Matrix**
+<p align = center>
+<img src="https://1.bp.blogspot.com/-tSAmvx42pII/Ux5EQxZukcI/AAAAAAAACLo/dPccUjxqb5o/s1600/Adjacency+Matrix+Representation+of+Directed+Graph.JPG" width="50%" />
+</p>
+
+#### --> **Incidence Matrix**
 - Incidence matrix representation uses the concept of 'size of a matrix' and formulated as `IM = Total no. of Vertices / Total no. of Edges`
 - For an example, if a graph has 4 vertices and 6 edges, then it can be represented using a matrix of (4X6) class.
 Where,
@@ -111,6 +111,27 @@ i) columns = edges
 ii) rows = vertices
 - If a directed graph G consists of n vertices and m edges, then the incidence matrix is an n x m matrix C = [cij]  
 - Incidence Matrix is generally used for Directed graphs
+- This matrix is filled with either 0 or 1 or -1. Where,
+0 is used to represent row edge which is `not connected` to column vertex.
+1 is used to represent row edge which is `connected as outgoing edge` to column vertex.
+-1 is used to represent row edge which is `connected as incoming edge` to column vertex
+
 <p align = center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Incidence_matrix_-_directed_graph.svg/1280px-Incidence_matrix_-_directed_graph.svg.png" width="40%" />
+<img src="https://www.researchgate.net/profile/Anirban-Mitra-12/publication/272172339/figure/fig3/AS:392001062227983@1470471744915/Fig-5-i-Directed-Graph-G-ii-Oriented-Incidence-Matrix-IV-CRITERIA-FOR-GROUPING.png" width="50%" />
 </p>
+
+#### --> **Adjacency List**
+- An Adjacency list is a collection of unordered lists used to represent a finite graph
+- For each vertex in the graph, we maintain the list of its neighbor vertices.
+- An array of lists is used and the size of the array is equal to the number of vertices.
+
+<p align = center>
+<img src="https://i.stack.imgur.com/8PQ2E.png" width ="50%" />
+</p>
+
+
+### `TRAVERSAL OF GRAPHS`
+- Visiting every node in a graph (only once) is generally termed as 'Traversing'.
+- The process of visiting (checking and/or updating) each vertex in a graph.
+- Such traversals are classified by the order in which the vertices are visited.
+- Tree traversal is a special case of graph traversal.
