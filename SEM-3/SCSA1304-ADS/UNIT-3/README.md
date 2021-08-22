@@ -1,6 +1,6 @@
 ## `GRAPHS`
 <p align = center>
-<img src="http://www.btechsmartclass.com/data_structures/ds_images/Graph%201.png" />
+<img src="http://www.btechsmartclass.com/data_structures/ds_images/Graph%201.png" width="50%" />
 </p>
 
 #### ->Introduction :
@@ -12,16 +12,16 @@
 - In simple words, graph is the collection of vertices and edges, but you can bring out the cycles or the loops.
 -                                   **All trees are graphs, but not all graphs can be trees**
 
-##### ->Directed graph :
+#### ->Directed graph :
 - It is a graph, i.e., a set of objects that are connected together, where all the `edges are directed` and are `Undirected` from one vertex to another .
 - A directed graph is sometimes called as `Digraph` or `Directed Network`.  
 - Nodes connected with edges, and also the edges are assigned with some particular direction or points a direction.
 
 <p align = center>
-<img src="https://lh3.googleusercontent.com/proxy/b0KRKxKiaX9eMtqibc2MlKDpTpn2o71bHODtnI8h_ardthskZJx5rCHC8Qvy3vSs-FdUmS0QvbmuSsA7G31y4bCxNhycIEhv1AZZjzyrd-TlwepKEw" />
+<img src="https://computersciencewiki.org/images/c/c6/Directed_graph.png" width="20%" />
 </p>
 
-##### ->Undirected graph :
+#### ->Undirected graph :
 - An undirected graph is graph, i.e., a set of objects that are connected together, where all the `edges are bidirectional`.
 - An undirected graph is sometimes called an `undirected network`.
 - Edges aren't assigned with any particular direction.
@@ -41,27 +41,38 @@
 - Weighted graphs are used for applications where we need to take into account `some cost or measurement` between vertices of the graph.
 
 <p align = center>
-<img src="https://www.clipartmax.com/png/middle/97-979844_directed-weighted-ex1-directed-weighted-graph.png" width="30%" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210629004403/aTlYgNBLmuaKFgKV.png" width="30%" />
 </p>
 
-##### ->Strongly Connected graph :
+#### ->Strongly Connected graph :
 - A directed graph is called strongly connected if there is a path in each direction between each pair of vertices of the graph.
 - If every vertex is reachable from every other vertex then it comes under Strongly connected graph.
 - Every pair of points should be mutually reachable.
+
+<p align = center>
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/connectivity3-300x172.png" width="30%" />
+</p>
+
 
 #### -->Degree :
 - Number of edges connected to a node.
 - In an undirected graph, degree is just the count of lines(edges) around the nodes.
 
-##### ->In-Degree :
+#### ->In-Degree :
 - The number of edges coming into a vertex in a directed graph is termed as 'In-Degree'.
 - If the In-Degree of a node is zero(0), then it is termed as `Source-node`.
 
-##### ->Out-Degree :
+
+<p align = center>
+<img src="https://1.bp.blogspot.com/-UhB6yekFdGc/XPer-_GfGAI/AAAAAAAAAXY/hNn0TZZ1ZSAP79tyTtc2pz5fREq-OPT9gCLcBGAs/s1600/indegree_outdegree_node_centrality.png" />
+</p>
+
+
+#### ->Out-Degree :
 - The number of arcs directed away from the vertex in a directed graph is termed as 'Out-Degree'.
 - If the Out-Degree of a node is zero(0), then it is termed as `Sink-node`.
 
-##### ->Sub-Graph :
+#### ->Sub-Graph :
 - A graph whose vertices and edges are subsets of another graph.
 - Considering graph G = (V, E) , then the Graph G' =(V', E') is considered as a Sub-Graph of G if V' ⊆ V and E' ⊆ E
 - V refers to `Vertices` and E refers to `Edges` and '⊆' refers to `Subset`.
@@ -74,6 +85,10 @@
 - Generally a tree is stated as 'Connected Acyclic Graph'.
 - Tree can also be stated as 'Directed Acyclic Graph' (DAG).
 
+<p align = center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_RUyWnrklp8gemrscPMZmV7u470ZkKyFDv2jRZnFj2AiXTLkRzFZl3BzPKB8kggQ5RY&usqp=CAU" />
+</p>
+
 #### -->`Representation of Graph` :
 **Multi Dimensional Array - Adjacency Matrix / Sparse Matrix**
 - Adjacency matrix is a sequential representation
@@ -81,3 +96,21 @@
 - It is used to represent which nodes are adjacent to each other. i.e. is there any edge connecting nodes to a graph.
 - In this representation, we have to construct a nXn matrix A. If there is any edge from a vertex i to vertex j, then the corresponding element of A, a^(i,j)= 1, otherwise a^(i,j)= 0
 - Matrices that have the majority of their elements equal to zero are the Sparse Matrices.
+
+<p align = center>
+<img src="https://1.bp.blogspot.com/-tSAmvx42pII/Ux5EQxZukcI/AAAAAAAACLo/dPccUjxqb5o/s1600/Adjacency+Matrix+Representation+of+Directed+Graph.JPG" />
+</p>
+- If there's no connection between two nodes, it will be marked as 'zero(0)' in the matrix.
+- Similarly a connection between any two nodes, will be marked as 'one(1)' in the corresponding matrix.
+
+**Incidence Matrix**
+- Incidence matrix representation uses the concept of 'size of a matrix' and formulated as `IM = Total no. of Vertices / Total no. of Edges`
+- For an example, if a graph has 4 vertices and 6 edges, then it can be represented using a matrix of (4X6) class.
+Where,
+i) columns = edges
+ii) rows = vertices
+- If a directed graph G consists of n vertices and m edges, then the incidence matrix is an n x m matrix C = [cij]  
+- Incidence Matrix is generally used for Directed graphs
+<p align = center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Incidence_matrix_-_directed_graph.svg/1280px-Incidence_matrix_-_directed_graph.svg.png" width="40%" />
+</p>
