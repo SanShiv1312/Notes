@@ -1,6 +1,6 @@
 ## `GRAPHS`
 <p align = center>
-<img src="https://lh3.googleusercontent.com/proxy/R2yQNkLXNc0yzjsk2iXo0u3As6NAuQDtzDcO6-stYQdqiNx2TxEt2TEjJuKtzwtflm5YjXzZlspDKn12V3aERe2bSmLK8L2neQ6ZxUGLqm6SmtrsDHa1K1tfFscBoQ" />
+<img src="http://www.btechsmartclass.com/data_structures/ds_images/Graph%201.png" />
 </p>
 
 #### ->Introduction :
