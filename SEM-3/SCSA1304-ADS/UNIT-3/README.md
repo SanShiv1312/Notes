@@ -1,4 +1,7 @@
 ## `GRAPHS`
+<p align = center>
+<img src="https://lh3.googleusercontent.com/proxy/R2yQNkLXNc0yzjsk2iXo0u3As6NAuQDtzDcO6-stYQdqiNx2TxEt2TEjJuKtzwtflm5YjXzZlspDKn12V3aERe2bSmLK8L2neQ6ZxUGLqm6SmtrsDHa1K1tfFscBoQ" />
+</p>
 
 #### ->Introduction :
 - A Graph is a `non-linear data structure` consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
@@ -14,10 +17,18 @@
 - A directed graph is sometimes called as `Digraph` or `Directed Network`.  
 - Nodes connected with edges, and also the edges are assigned with some particular direction or points a direction.
 
+<p align = center>
+<img src="https://lh3.googleusercontent.com/proxy/b0KRKxKiaX9eMtqibc2MlKDpTpn2o71bHODtnI8h_ardthskZJx5rCHC8Qvy3vSs-FdUmS0QvbmuSsA7G31y4bCxNhycIEhv1AZZjzyrd-TlwepKEw" />
+</p>
+
 ##### ->Undirected graph :
 - An undirected graph is graph, i.e., a set of objects that are connected together, where all the `edges are bidirectional`.
 - An undirected graph is sometimes called an `undirected network`.
 - Edges aren't assigned with any particular direction.
+
+<p align = center>
+<img src="https://www.techiedelight.com/wp-content/uploads/undirected-graph.png" />
+</p>
 
 **The connecting lines between two nodes in a graph has two different names, taking their nature into consideration**,
 - **Directed Graph** will have an **Arc** and whereas `Undirected Graph` will have an `Edge`.  
@@ -28,6 +39,10 @@
 - Used to compute the shortest path.
 - The term 'Weight' refers to a factor or circumstance considered for taking the next step of action plan.
 - Weighted graphs are used for applications where we need to take into account `some cost or measurement` between vertices of the graph.
+
+<p align = center>
+<img src="https://www.clipartmax.com/png/middle/97-979844_directed-weighted-ex1-directed-weighted-graph.png" width="30%" />
+</p>
 
 ##### ->Strongly Connected graph :
 - A directed graph is called strongly connected if there is a path in each direction between each pair of vertices of the graph.
