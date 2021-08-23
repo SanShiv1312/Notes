@@ -121,7 +121,7 @@ ii) rows = vertices
 </p>
 
 #### --> **Adjacency List**
-- An Adjacency list is a collection of unordered lists used to represent a finite graph
+- An Adjacency list is a collection of `unordered lists` used to represent a finite graph
 - For each vertex in the graph, we maintain the list of its neighbor vertices.
 - An array of lists is used and the size of the array is equal to the number of vertices.
 
@@ -132,7 +132,9 @@ ii) rows = vertices
 
 ### `TRAVERSAL OF GRAPHS`
 - Visiting every node in a graph (only once) is generally termed as 'Traversing'.
-- Traversing the graph means examining all the nodes and vertices of the graph. 
+- Traversing the graph means examining all the nodes and vertices of the graph.
 - The process of visiting (checking and/or updating) each vertex in a graph.
 - Such traversals are classified by the order in which the vertices are visited.
-- Tree traversal is a special case of graph traversal.
+- Traversal of graph can also be stated as 'Visiting a Vertex' or 'Exploration of Vertex'.
+- Two standard methods of traversing a graph is **i)Breadth first traversal**
+and **ii)Depth first traversal**
