@@ -136,5 +136,10 @@ ii) rows = vertices
 - The process of visiting (checking and/or updating) each vertex in a graph.
 - Such traversals are classified by the order in which the vertices are visited.
 - Traversal of graph can also be stated as 'Visiting a Vertex' or 'Exploration of Vertex'.
-- Two standard methods of traversing a graph is **i)Breadth first traversal**
-and **ii)Depth first traversal**
+- Two standard methods of traversing a graph is  **i)Breadth First Search Traversal (BFS)**
+and **ii)Depth First Search Traversal (DFS)**
+
+#### `Breadth First Search Traversal (BFS) :`
+- Breadth first search(traversal) is a graph traversal algorithm that starts traversing the graph from `root node` and explores all the neighbouring nodes.
+- Then, it selects the nearest node and explore all the unexplored nodes.
+- `Queue` data structure is used for implementing BFS.
