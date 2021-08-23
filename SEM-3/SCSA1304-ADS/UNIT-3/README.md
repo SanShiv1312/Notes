@@ -132,6 +132,7 @@ ii) rows = vertices
 
 ### `TRAVERSAL OF GRAPHS`
 - Visiting every node in a graph (only once) is generally termed as 'Traversing'.
+- Traversing the graph means examining all the nodes and vertices of the graph. 
 - The process of visiting (checking and/or updating) each vertex in a graph.
 - Such traversals are classified by the order in which the vertices are visited.
 - Tree traversal is a special case of graph traversal.
