@@ -143,3 +143,28 @@ and **ii)Depth First Search Traversal (DFS)**
 - Breadth first search(traversal) is a graph traversal algorithm that starts traversing the graph from `root node` and explores all the neighbouring nodes.
 - Then, it selects the nearest node and explore all the unexplored nodes.
 - `Queue` data structure is used for implementing BFS.
+
+
+#### Spanning Tree
+- A tree T is a spanning tree of G if T is a spanning `sub-graph` of G.
+- All the vertices will be covered with minimum possible number of edges
+- Every spanning  tree of a connected n-node graph G has `(n-1)` arcs.
+- By this definition, we can draw a conclusion that `every connected and undirected Graph` G has at least one spanning tree.
+- A disconnected graph does not have any spanning tree, as it cannot be spanned to all its vertices.
+- Spanning tree is basically used to find a `minimum path to connect all nodes in a graph`
+
+#### General Properties of Spanning Tree :
+
+- A connected graph G can have more than one spanning tree.
+- All possible spanning trees of graph G, have the same number of edges and vertices.
+- The spanning tree does not have any cycle (loops).
+- Removing one edge from the spanning tree will make the graph disconnected, i.e. the spanning tree is minimally connected.
+- Adding one edge to the spanning tree will create a circuit or loop, i.e. the spanning tree is maximally acyclic.
+
+#### Mathematical Properties of Spanning Tree :
+
+- Spanning tree has n-1 edges, where n is the number of nodes (vertices).
+- From a complete graph, by removing maximum e - n + 1 edges, we can construct a spanning tree.
+- A complete graph can have maximum nn-2 number of spanning trees.
+
+- * Civil Network Planning, Computer Network Routing Protocol, Cluster Analysis are the basic applications of spanning tree.
