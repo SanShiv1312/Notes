@@ -168,8 +168,14 @@ and **ii)Depth First Search Traversal (DFS)**
 - A complete graph can have maximum nn-2 number of spanning trees.
 - * Civil Network Planning, Computer Network Routing Protocol, Cluster Analysis are the basic applications of spanning tree.
 
-#### `Minimum Spanning Tree (MST)`
+### Minimum Spanning Tree (MST)
 - Spanning tree of graph whose sum of `weights of edges is minimum`.
 - Graph that connects all the vertices together, `without any cycles` and with the minimum possible total edge weight.
 - A graph may have more than one minimum spanning trees(MST).
 - For getting a MST for a given Spanning tree, we have two Algorithms and they are **KRUSKAL'S ALGORITHM** and **PRIM'S ALGORITHM**.
+
+### `KRUSKAL'S ALGORITHM`
+- Kruskal's algorithm finds a minimum spanning forest of an undirected edge-weighted graph.
+- `STEP-1 :` Remove all the loops and the parallel edges from the graph given and in case of removing the parallel edges, remove the one with high weight and remove the self loops, even if it has the least weight of the graph given.
+- `STEP-2 :` Firstly chose the node with the least weight node and then arrange all the edges in increasing order of their edge weights and consider the prime rule that `cycles or loops shouldn't appear while joining the nodes that was chosen`
+- 
