@@ -166,5 +166,10 @@ and **ii)Depth First Search Traversal (DFS)**
 - Spanning tree has n-1 edges, where n is the number of nodes (vertices).
 - From a complete graph, by removing maximum e - n + 1 edges, we can construct a spanning tree.
 - A complete graph can have maximum nn-2 number of spanning trees.
-
 - * Civil Network Planning, Computer Network Routing Protocol, Cluster Analysis are the basic applications of spanning tree.
+
+#### `Minimum Spanning Tree (MST)`
+- Spanning tree of graph whose sum of `weights of edges is minimum`.
+- Graph that connects all the vertices together, `without any cycles` and with the minimum possible total edge weight.
+- A graph may have more than one minimum spanning trees(MST).
+- For getting a MST for a given Spanning tree, we have two Algorithms and they are **KRUSKAL'S ALGORITHM** and **PRIM'S ALGORITHM**.
