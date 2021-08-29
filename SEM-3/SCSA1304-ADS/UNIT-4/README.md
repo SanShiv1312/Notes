@@ -10,8 +10,12 @@
 - Each connected and undirected graph contains at least one spanning tree.
 - The disconnected graph does not contain any spanning tree.
 
+<p align="center">
+<img src="https://i2.wp.com/algorithms.tutorialhorizon.com/files/2018/05/Minimum-Spanning-Tree-basics-1.png?ssl=1" />
+</p>
+
 #### `Minimum Spanning Tree (MST)`
 - Spanning tree of graph whose sum of weights of edges is minimum.
 - A graph can have more than one MST.
 - For a Graph containing 'n' vertices, there will a MST with 'n' vertices and 'n-1' edges.
-- MST is the one spanning tree that contains least weight when added combinedly. 
+- MST is the one spanning tree that contains least weight when added combinedly.
