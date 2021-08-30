@@ -20,6 +20,7 @@
 - For a Graph containing 'n' vertices, there will a MST with 'n' vertices and 'n-1' edges.
 - MST is the one spanning tree that contains least weight when added combinedly.
 
+
 ### `Kruskal's Algorithm`
 - Kruskal's algorithm finds a minimum spanning forest of an undirected edge-weighted graph.
 - If the graph is connected, it finds a minimum spanning tree.
@@ -34,3 +35,6 @@
 <p align='center'>
 Sample demonstration for loops where 'a' is a vertex : <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Self-loop.png" width="50" />
 </p>
+
+- Just ensure that the graph shouldn't contain loops and parallel edges and select the edge with minimum weight, as we are following the greedy approach and moreover we're on our way for finding `MST` 😅
+ 
