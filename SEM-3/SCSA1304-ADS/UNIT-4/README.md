@@ -37,4 +37,21 @@ Sample demonstration for loops where 'a' is a vertex : <img src="https://upload.
 </p>
 
 - Just ensure that the graph shouldn't contain loops and parallel edges and select the edge with minimum weight, as we are following the greedy approach and moreover we're on our way for finding `MST` 😅
- 
+
+<p align='center'>
+ <img src="https://aquarchitect.github.io/swift-algorithm-club/Minimum%20Spanning%20Tree/Images/kruskal.png" />
+</p>
+
+
+### `Prim's Algorithm`
+ - Prim's Algorithm too follows the greedy approach for finding MST.
+ - Prim's algorithm finds the subset of edges that includes every vertex of the graph such that the sum of the weights of the edges can be minimized.
+ - Similar to kruskal's thing, we should ensure that there are no loops and parallel edges.
+ - Choose any arbitrary vertex as root node and start checking all the possible connections.
+ - Then choose the edge with minimum weight among the possible routes.
+ - After reaching to one node(say B) from the other(say A), you have the check the possible minimum route from both the nodes(A and B).
+ - If multiple routes of same path have the same weight, select any one of those.
+ - Continue this process until the sub graph(MST) includes all vertices of given graph.
+ <p align='center'>
+  <img src="https://aquarchitect.github.io/swift-algorithm-club/Minimum%20Spanning%20Tree/Images/prim.png" />
+ </p>
