@@ -142,4 +142,4 @@ and **ii)Depth First Search Traversal (DFS)**
 #### `Breadth First Search Traversal (BFS) :`
 - Breadth first search(traversal) is a graph traversal algorithm that starts traversing the graph from `root node` and explores all the neighbouring nodes.
 - Then, it selects the nearest node and explore all the unexplored nodes.
-- `Queue` data structure is used for implementing BFS.
+- `Queue` data structure is used for implementing BFS..
