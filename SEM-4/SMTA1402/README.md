@@ -39,4 +39,18 @@ The Experiments which have only one possible result or outcome i.e. whose result
 Experiments whose result is uncertain or unpredictable.
 - Also known as "Indeterministic Experiments"
 - The different possible outcomes can be known or assessed and the outcomes cannot be predicted prior to it's conduct.
-- This can have more than one possible outcome.    
+- This can have more than one possible outcome.   
+
+### ->**Random Experiment** :
+An experiment is random if although it is repeated in the same manner every time, can `result in different outcomes`
+- The set of all possible outcomes is completely determined before carrying it out.
+- But before we carry it out, we cannot predict its outcome.
+- No preference or priority is given to any of the cases i.e. without any bias for any case.
+- * _**Example** :_ Tossing a coin (or) Rolling a die
+
+### ->**Mathematical definition of Probability** :
+Let S be the sample space and A be an event associated with a random
+experiment. Let n(S) and n(A) be the number of elements of S and A. then
+the probability of event 'A' occurring is denoted as P(A), is denoted by
+- **`P(A) = n(A)/n(S)`** 
+- (number of likely occurring outcomes for the event **A**) / (Total possible outcomes of the experiment)  
