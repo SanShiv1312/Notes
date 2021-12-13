@@ -6,7 +6,7 @@
 
 ### ->**Experiment** :
 - In Probability, Experiment or Trail is an attempt that can be `infinitely repeated` and has a well defined `set of possible outcomes`(Sample space).
-- The experiment will always results in something
+- The experiment will always results in something.
 
 Based on number of possible results in an experiment, we can classify  the experiments as two types
 - **Deterministic**
@@ -15,5 +15,14 @@ Based on number of possible results in an experiment, we can classify  the exper
 #### -->**Deterministic Experiment** :
 The Experiments which have only one possible result or outcome i.e. whose result is certain or unique.
 - Also known as "Predictable Experiments"
-- An experiment whose outcome or result can be predicted with
-certainty is called a Deterministic experiment
+- Result can be predicted with certainty and is known prior to its conduct.
+
+<p align = center>
+<img src="https://img.brainkart.com/imagebk37/whzSlIA.jpg"/>
+</p>  
+
+#### -->**Probabilistic Experiment** :
+Experiments whose result is uncertain or unpredictable.
+- Also known as "Indeterministic Experiments"
+- The different possible outcomes can be known or assessed and the outcomes cannot be predicted before to its conduction.
+- This can have more than one possible outcome.    
