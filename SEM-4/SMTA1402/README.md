@@ -1,3 +1,7 @@
+<p align = center>
+<img src="https://miro.medium.com/max/501/1*bn6QG4Vemv5Pgnhfx9b21Q.jpeg" width="45%" />
+</p>
+
 # Unit-1 `Probability Concepts and Random Variable`
 
 ### ->**Experiment** :
