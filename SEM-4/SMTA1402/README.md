@@ -52,5 +52,19 @@ An experiment is random if although it is repeated in the same manner every time
 Let S be the sample space and A be an event associated with a random
 experiment. Let n(S) and n(A) be the number of elements of S and A. then
 the probability of event 'A' occurring is denoted as P(A), is denoted by
-- **`P(A) = n(A)/n(S)`** 
+- **`P(A) = n(A)/n(S)`**
 - (number of likely occurring outcomes for the event **A**) / (Total possible outcomes of the experiment)  
+
+#### ->**Statistical definition** :
+<p align = center>
+<img src="https://www.wisdomjobs.com/tutorials/definition-rdot-von-mises.png"/>
+</p>
+
+### ->**Axiomatic definition of Probability** :
+Let S be the sample space and A be an event associated with a random
+experiment. Then the probability of the event E, P(E) is defined as a real
+number satisfying the following axioms.
+- p(Ei) >= 0
+- 0 <= P(E) <= 1
+- P(S) = 1 and p(Φ) = 0
+- If A and B are mutually exclusive events or disjoint then, P(A U B) = P(A) + P(B)
