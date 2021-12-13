@@ -8,7 +8,7 @@
 - In Probability, Experiment or Trail is an attempt that can be `infinitely repeated` and has a well defined `set of possible outcomes`(Sample space).
 - The experiment will always results in something.
 - * _**Example** :_
-**Event or Trail** : `Tossing TWO coins`
+**Event or Trail** : "Tossing TWO coins"
 then,
 - _(Sample space)_ S = {HH, HT, TH, TT} and also "n" = 2(number of coins)
 - |S| = _number of possible elements_ = `2^n`
@@ -17,9 +17,9 @@ then,
 A probability event can be defined as a `set of outcomes` of an experiment
 - A sub-set of Sample space(S) consisting of possible outcomes.
 - * _**Example** :_
-Getting one tail (From the above given example)
-`E1` = { HT, TH, TT}
-n(E1) = 3.
+"Getting one tail" (From the above given example)
+- "E1" = { HT, TH, TT}
+- n(E1) = 3
 
 
 Based on number of possible results in an experiment, we can classify  the experiments as two types
