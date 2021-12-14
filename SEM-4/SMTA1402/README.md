@@ -79,4 +79,5 @@ Two events are Disjoint, if they `cannot occur at the same time`.
 <p align = center>
 <img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="250"/>
 </p>
+
 - we have, `P(A or B) = P(A) + P(B)` from the above.
