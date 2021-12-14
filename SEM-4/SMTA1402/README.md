@@ -67,6 +67,15 @@ number satisfying the following axioms.
 - p(Ei) >= 0
 - 0 <= P(E) <= 1
 - P(S) = 1 and p(Φ) = 0
-- If A and B are mutually exclusive events or disjoint then, P(A U B) = P(A) + P(B)
+- If A and B are mutually exclusive events or disjoint then, `P(A U B) = P(A) + P(B)`
 
-..
+### ->**Basic types of events**
+
+#### -->**Disjoint event** :
+Two events are Disjoint, if they `cannot occur at the same time`.
+- Another word that means disjoint is `mutual exclusive`.
+- If two events are disjoint, then the probability of them both occurring at the same time is '0'.  
+
+<p align = center>
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png"/>
+</p>
