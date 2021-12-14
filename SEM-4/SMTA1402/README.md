@@ -77,5 +77,5 @@ Two events are Disjoint, if they `cannot occur at the same time`.
 - If two events are disjoint, then the probability of them both occurring at the same time is '0'.  
 
 <p align = center>
-<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png"/>
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="20"/>
 </p>
