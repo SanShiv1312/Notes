@@ -96,10 +96,10 @@ Events that have equal chance of occurrence in a trail of an experiment.
 Events are called as Exhaustive, if at least one of them necessarily occurs whenever the experiment is performed.
 - All the possible events in a sample space of an experiment constitute the exhaustive events.
 - Exhaustive events may or may not be equally likely Events.
-- * consider,  Ai be a possible event for all i ∈ {1, 2, 3, 4, ..., n} in S then [ "U(from i = 1 to n) Ai = S" ].
+   * consider,  Ai be a possible event for all i ∈ {1, 2, 3, 4, ..., n} in S then [ "U(from i = 1 to n) Ai = S" ].
 
 <p align = center>
-<img src="https://www.w3spoint.com/wp-content/uploads/2019/11/Pasted-into-Exhaustive-events-in-Probability.png"/>
+<img src="https://www.w3spoint.com/wp-content/uploads/2019/11/Pasted-into-Exhaustive-events-in-Probability.png" width="250"/>
 </p>
 
 - where E1, E2, E3 are the "Exhaustive events".
