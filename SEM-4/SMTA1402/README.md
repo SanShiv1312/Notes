@@ -84,10 +84,22 @@ Two events are Disjoint, if they `cannot occur at the same time`.
 
 #### -->**Equally likely events** :
 Events that have equal chance of occurrence in a trail of an experiment.
-- If each outcome of an event has same probability of occurring.
+- If each outcome of an event has `same probability of occurring`.
 - Getting a head or tail when a coin was tossed (or) getting even or odd number when a dice was thrown can be stated as examples for Equally likely events.
-- Unbiased conditions should be there for their occurrence.
+- `Unbiased` conditions should be there for their occurrence.
 
 <p align = center>
 <img src="https://3.bp.blogspot.com/-11S-ach8wd8/WH8mfaPOG_I/AAAAAAAAEKY/s2rXtK8MboQU6S-lBTbAYlr0bqku3uglgCLcB/s1600/1%25252F6.jpg"/>
 </p>
+
+#### -->**Exhaustive events** :
+Events are called as Exhaustive, if at least one of them necessarily occurs whenever the experiment is performed.
+- All the possible events in a sample space of an experiment constitute the exhaustive events.
+- Exhaustive events may or may not be equally likely Events.
+- * consider,  Ai be a possible event for all i ∈ {1, 2, 3, 4, ..., n} in S then [ "U(from i = 1 to n) Ai = S" ].
+
+<p align = center>
+<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/exhaustive-events-1634887073.png"/>
+</p>
+
+- where A1, A2, A3, A4, A5 are the Exhaustive events.
