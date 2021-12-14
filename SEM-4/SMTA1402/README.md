@@ -68,3 +68,5 @@ number satisfying the following axioms.
 - 0 <= P(E) <= 1
 - P(S) = 1 and p(Φ) = 0
 - If A and B are mutually exclusive events or disjoint then, P(A U B) = P(A) + P(B)
+
+..
