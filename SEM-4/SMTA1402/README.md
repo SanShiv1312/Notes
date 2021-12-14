@@ -89,5 +89,5 @@ Events that have equal chance of occurrence in a trail of an experiment.
 - Unbiased conditions should be there for their occurrence.
 
 <p align = center>
-<img src="https://3.bp.blogspot.com/-11S-ach8wd8/WH8mfaPOG_I/AAAAAAAAEKY/s2rXtK8MboQU6S-lBTbAYlr0bqku3uglgCLcB/s1600/1%25252F6.jpg" width="250"/>
+<img src="https://3.bp.blogspot.com/-11S-ach8wd8/WH8mfaPOG_I/AAAAAAAAEKY/s2rXtK8MboQU6S-lBTbAYlr0bqku3uglgCLcB/s1600/1%25252F6.jpg"/>
 </p>
