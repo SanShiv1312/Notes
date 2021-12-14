@@ -71,7 +71,7 @@ number satisfying the following axioms.
 
 ### ->**Basic types of events**
 
-#### -->**Disjoint event** :
+#### -->**Disjoint events** :
 Two events are Disjoint, if they `cannot occur at the same time`.
 - Another word that means disjoint is `mutual exclusive`.
 - If two events are disjoint, then the probability of them both occurring at the same time is '0'.  
@@ -81,3 +81,13 @@ Two events are Disjoint, if they `cannot occur at the same time`.
 </p>
 
 - we have, `P(A or B) = P(A) + P(B)` from the above.
+
+#### -->**Equally likely events** :
+Events that have equal chance of occurrence in a trail of an experiment.
+- If each outcome of an event has same probability of occurring.
+- Getting a head or tail when a coin was tossed (or) getting even or odd number when a dice was thrown can be stated as examples for Equally likely events.
+- Unbiased conditions should be there for their occurrence.
+
+<p align = center>
+<img src="https://3.bp.blogspot.com/-11S-ach8wd8/WH8mfaPOG_I/AAAAAAAAEKY/s2rXtK8MboQU6S-lBTbAYlr0bqku3uglgCLcB/s1600/1%25252F6.jpg" width="250"/>
+</p>
