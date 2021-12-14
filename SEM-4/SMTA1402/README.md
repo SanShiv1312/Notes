@@ -73,11 +73,11 @@ number satisfying the following axioms.
 
 #### -->**Disjoint events** :
 Two events are Disjoint, if they `cannot occur at the same time`.
-- Another word that means disjoint is `mutual exclusive`.
+- Another word that means disjoint is `mutual exclusivity`.
 - If two events are disjoint, then the probability of them both occurring at the same time is '0'.  
 
 <p align = center>
-<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="250"/>
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="220"/>
 </p>
 
 - we have, `P(A or B) = P(A) + P(B)` from the above.
