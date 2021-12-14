@@ -32,7 +32,7 @@ The Experiments which have only one possible result or outcome i.e. whose result
 - Result can be predicted with certainty and is known prior to its conduct.
 
 <p align = center>
-<img src="https://img.brainkart.com/imagebk37/whzSlIA.jpg"/>
+<img src="https://img.brainkart.com/imagebk37/whzSlIA.jpg" width="350"/>
 </p>  
 
 #### -->**Probabilistic Experiment** :
@@ -77,5 +77,5 @@ Two events are Disjoint, if they `cannot occur at the same time`.
 - If two events are disjoint, then the probability of them both occurring at the same time is '0'.  
 
 <p align = center>
-<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="150"/>
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="350"/>
 </p>
