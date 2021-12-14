@@ -99,7 +99,7 @@ Events are called as Exhaustive, if at least one of them necessarily occurs when
 - * consider,  Ai be a possible event for all i ∈ {1, 2, 3, 4, ..., n} in S then [ "U(from i = 1 to n) Ai = S" ].
 
 <p align = center>
-<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/exhaustive-events-1634887073.png"/>
+<img src="https://www.w3spoint.com/wp-content/uploads/2019/11/Pasted-into-Exhaustive-events-in-Probability.png"/>
 </p>
 
-- where A1, A2, A3, A4, A5 are the Exhaustive events.
+- where E1, E2, E3 are the "Exhaustive events".
