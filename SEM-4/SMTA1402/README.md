@@ -107,7 +107,7 @@ Events are called as Exhaustive, if at least one of them necessarily occurs when
 ### **`Important Theorems`** :
 
 #### -->**Theorem-1** : `Probability of impossible event is zero`
-- _**proof**_ :
+- _**Proof**_ :
 Let S be sample space (certain events) and Φ be the impossible event
  * we know that, **Certain events and impossible events are mutually exclusive**
 - P(S U Φ) = P(S) + P(Φ) (mutual exclusivity)
@@ -121,7 +121,7 @@ Let S be sample space (certain events) and Φ be the impossible event
 </p>
 
 #### -->**Theorem-2** : ` If A' is the complementary event of A, P(A')=1-P(A) <= 1`
-
+- _**Proof**_ : (kindly tap on the image below)
 <p align = center>
 <img src="https://imgur.com/1uI6h8z.png" width="250"/>
 </p>
