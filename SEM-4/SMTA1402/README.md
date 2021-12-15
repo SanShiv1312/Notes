@@ -105,7 +105,3 @@ Events are called as Exhaustive, if at least one of them necessarily occurs when
 - where E1, E2, E3 are the "Exhaustive events".
 
 #### ->**`Important Theorems`** :
-this is me `Author`...
-<p align = center>
-<img src="https://imgur.com/PWTSgOQ.jpg" width="240"/>
-</p>
