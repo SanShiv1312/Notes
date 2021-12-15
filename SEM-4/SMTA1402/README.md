@@ -148,6 +148,8 @@ For any two events A and B in a sample space(S),
 </p>
 
 #### ---> **Additional results**
+(kindly tap on the image below)
+
 <p align = center>
 <img src="https://imgur.com/12OZi5G.png" width="250"/>
 </p>
