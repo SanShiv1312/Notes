@@ -122,6 +122,7 @@ Let S be sample space (certain events) and Φ be the impossible event
 
 #### -->**Theorem-2** : ` If A' is the complementary event of A, P(A')=1-P(A) <= 1`
 - _**Proof**_ : (kindly tap on the image below)
+
 <p align = center>
 <img src="https://imgur.com/1uI6h8z.png" width="250"/>
 </p>
@@ -130,4 +131,18 @@ Here, A and its compliment A' are `mutually exclusive`.
 
 <p align = center>
 <img src="https://magoosh.com/statistics/files/2018/01/Screen-Shot-2018-01-12-at-1.24.59-PM.png" width="250"/>
+</p>
+
+#### -->**Theorem-3** : `Addition Theorem`
+For any two events A and B in a sample space(S),
+* **P(A U B) = P(A) + P(B) - P(A U B)**
+
+- _**Proof**_ : (kindly tap on the image below)
+
+<p align = center>
+<img src="https://imgur.com/7ewZs6y.png" width="250"/>
+</p>
+
+<p align = center>
+<img src="https://www.onlinemathlearning.com/image-files/addition-rule.png" width="250"/>
 </p>
