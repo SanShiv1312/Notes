@@ -135,7 +135,7 @@ Here, A and its compliment A' are `mutually exclusive`.
 
 #### -->**Theorem-3** : `Addition Theorem`
 For any two events A and B in a sample space(S),
-* **P(A U B) = P(A) + P(B) - P(A U B)**
+* `P(A U B) = P(A) + P(B) - P(A U B)`
 
 - _**Proof**_ : (kindly tap on the image below)
 
