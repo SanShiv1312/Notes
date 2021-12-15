@@ -149,5 +149,5 @@ For any two events A and B in a sample space(S),
 
 #### ---> **Additional results**
 <p align = center>
-<img src="https://imgur.com/12OZi5G" width="250"/>
+<img src="https://imgur.com/12OZi5G.png" width="250"/>
 </p>
