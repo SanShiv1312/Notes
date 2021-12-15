@@ -146,3 +146,8 @@ For any two events A and B in a sample space(S),
 <p align = center>
 <img src="https://www.onlinemathlearning.com/image-files/addition-rule.png" width="250"/>
 </p>
+
+#### ---> **Additional results**
+<p align = center>
+<img src="https://imgur.com/12OZi5G" width="250"/>
+</p>
