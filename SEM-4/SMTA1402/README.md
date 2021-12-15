@@ -105,3 +105,17 @@ Events are called as Exhaustive, if at least one of them necessarily occurs when
 - where E1, E2, E3 are the "Exhaustive events".
 
 #### ->**`Important Theorems`** :
+
+  * **Theorem-1** : `Probability of impossible event is zero`
+- _proof_ :
+Let S be sample space (certain events) and Φ be the impossible event
+-we know that, **Certain events and impossible events are mutually exclusive**
+- P(S U Φ) = P(S) + P(Φ) (Axiom 3)
+- [S U Φ = S]
+- => P(S) = P(S) + P(Φ)
+- => P(Φ) = 0 //
+**hence proved**
+
+<p align = center>
+<img src="https://files.askiitians.com/cdn/images/2018111-193737571-2971-throw-a-dice.png" width="200"/>
+</p>
