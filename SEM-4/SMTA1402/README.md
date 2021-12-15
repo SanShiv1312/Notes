@@ -119,3 +119,15 @@ Let S be sample space (certain events) and Φ be the impossible event
 <p align = center>
 <img src="https://files.askiitians.com/cdn/images/2018111-193737571-2971-throw-a-dice.png" width="200"/>
 </p>
+
+#### -->**Theorem-2** : ` If A' is the complementary event of A, P(A')=1-P(A) <= 1`
+
+<p align = center>
+<img src="https://imgur.com/1uI6h8z.png" width="250"/>
+</p>
+
+Here, A and its compliment A' are `mutually exclusive`.
+
+<p align = center>
+<img src="https://magoosh.com/statistics/files/2018/01/Screen-Shot-2018-01-12-at-1.24.59-PM.png" width="250"/>
+</p>
