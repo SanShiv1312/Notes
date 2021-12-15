@@ -7,7 +7,7 @@
 ### ->**Experiment** :
 - In Probability, Experiment or Trail is an attempt that can be `infinitely repeated` and has a well defined `set of possible outcomes`(Sample space).
 - The experiment will always results in something.
-- * _**Example** :_
+  * _**Example** :_
 **Event or Trail** : "Tossing TWO coins"
 then,
 - _(Sample space)_ S = {HH, HT, TH, TT} and also "n" = 2(number of coins)
@@ -46,7 +46,7 @@ An experiment is random if although it is repeated in the same manner every time
 - The set of all possible outcomes is completely determined before carrying it out.
 - But before we carry it out, we cannot predict its outcome.
 - No preference or priority is given to any of the cases i.e. without any bias for any case.
-- * _**Example** :_ Tossing a coin (or) Rolling a die
+  * _**Example** :_ Tossing a coin (or) Rolling a die
 
 ### ->**Mathematical definition of Probability** :
 Let S be the sample space and A be an event associated with a random
@@ -103,3 +103,9 @@ Events are called as Exhaustive, if at least one of them necessarily occurs when
 </p>
 
 - where E1, E2, E3 are the "Exhaustive events".
+
+#### ->**`Important Theorems`** :
+this is me `Author`...
+<p align = center>
+<img src="https://imgur.com/PWTSgOQ.jpg" width="240"/>
+</p>
