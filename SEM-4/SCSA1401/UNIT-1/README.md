@@ -9,11 +9,12 @@
 - `Data` are termed as `Attributes` and also _`Logic`_ is termed as _`Functions`_.  
 
 - The primary tasks in object-oriented analysis (OOA) are −
-* Identifying objects.
-* Organizing the objects by creating object model diagram.
-* Defining the internals of the objects, or object attributes.
-* Defining the behavior of the objects, i.e., object actions.
-* Describing how the objects interact.
+
+ * Identifying objects.
+ * Organizing the objects by creating object model diagram.
+ * Defining the internals of the objects, or object attributes.
+ * Defining the behavior of the objects, i.e., object actions.
+ * Describing how the objects interact.
 
 
 ### `BASIC DEFINITIONS`
