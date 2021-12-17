@@ -5,3 +5,5 @@
 ## UNIT-1 `AN OVERVIEW OF OBJECT ORIENTED SYSTEM DEVELOPMENT`
 
 **Object-oriented analysis and design** (OOAD) is a software engineering approach that models a system as a group of interacting objects. Each object represents some entity of interest in the system being modeled, and is characterized by its class, its state (data elements), and its behavior.
+- Object is a combination of data and logic that represents some real world entity.
+- `Data` are termed as `Attributes` and also _`Logic`_ is termed as _`Functions`_.  
