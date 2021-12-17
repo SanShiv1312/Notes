@@ -20,9 +20,3 @@
 ### `BASIC DEFINITIONS`
 
 ### -> **OBJECT** :
-An object is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful
-- Object is an instance of a class.
-- From a programming point of view, an object in OOPS can include a data structure, a variable, or a function.
-- An object is an entity.
-   - It knows things(availability of attributes)
-   - It does things(contains methods)
