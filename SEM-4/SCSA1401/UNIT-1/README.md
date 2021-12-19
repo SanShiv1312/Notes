@@ -20,5 +20,4 @@
 ### `BASIC DEFINITIONS`
 
 ### -> **OBJECT** :
-hey is this working or not :(
-  wtf is happening :(( 
+Object is an instance of a class. An object in OOPS is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful.  
