@@ -39,3 +39,7 @@ records, fields, files, forms, an invoice, etc.
 <p align="center">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/C%2B%2B_OOPs_Example1.PNG" width="250" />
 </p>
+
+- here, `Class` is the thing or domain called 'Car' and is demonstrating how a normal car should look like
+    - and there goes three different things, (_`Object`_) following how a 'Car' should be and with different attribute(color)
+    
