@@ -24,7 +24,7 @@ A class is a `blueprint` for creating objects. It can also be stated as a "templ
 - It is a user-defined type that describes what a certain type of object will look like
 - Collection of objects is called class. It is a `logical entity`.
 - Class doesn't consume the space and is used for declaring and creating the objects.
-![Example](https://www.simplilearn.com/ice9/free_resources_article_thumb/C%2B%2B_OOPs_Example1.PNG)
+
 
 ### -> **OBJECT** :
 Object is an `instance of a class`. An object in OOPS is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful. An Object is anything, real or abstract, about which we store data and
@@ -34,3 +34,8 @@ records, fields, files, forms, an invoice, etc.
 - A object is an `entity`
     - It knows things (availability of attributes)
     -  It does things (provides methods)
+
+### **Example** demonstration for the inter-relation between the terms "Class" and "Object" :
+<p align="center">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/C%2B%2B_OOPs_Example1.PNG" width="250" />
+</p>
