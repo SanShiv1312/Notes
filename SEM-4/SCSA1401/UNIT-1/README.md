@@ -63,3 +63,7 @@ already have and can reuse what we already have(`Reusability`)
 <p align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190704114709/Inheritance-3.jpg" width="250" />
 </p>
+
+### -> **POLYMORPHISM** :
+Ability of any data to be processed in more than one form is known as "Polymorphism". Or like one operation can be used for different purposes.
+- Poly means many and morph means form.  
