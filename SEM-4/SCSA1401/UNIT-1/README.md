@@ -44,12 +44,22 @@ records, fields, files, forms, an invoice, etc.
     - and there goes three different things, (_`Object`_) following how a 'Car' should be and with different attribute(color)
 
 ### -> **ENCAPSULATION** :
-Encapsulation is the process of binding both attributes and methods together within a class. Or like bundling of data, along with the methods that operate on that data, into a single unit.
+Encapsulation is the process of `binding` both attributes and methods together within a class. Or like bundling of data, along with the methods that operate on that data, into a single unit.
 - This concept is also often used to hide the internal representation, or state, of an object from the outside.
 - Internal details of a class can be hidden from outside and can give the control access to the internal state of the object.
-- Encapsulation enables data hiding, hiding irrelevant information or like sensitive details and showing only relevant and important things required by the user.
-- Often referred as preventing or restricting the direct access for the unauthorized parties.
+- Encapsulation enables data hiding, `hiding irrelevant information` or like sensitive details, showing only relevant and important things required by the user.
+- Often referred as preventing or `restricting the direct access` for the unauthorized parties.
 
 <p align="center">
 <img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/e881fb/learn-object-oriented-programming-using-C-Sharp-part-5/Images/Encapsulation.jpg" width="250" />
+</p>
+
+### -> **INHERITANCE** :
+Mechanism of `deriving a class` from another class for a hierarchy of classes that share a set of attributes and methods. Or like basing an object or class upon another object or class, retaining similar implementation and methodology.
+- A class can get some of its characteristics from a parent class and then add unique features of its own.
+- The real advantage of inheritance is that we can build upon what we
+already have and can reuse what we already have(`Reusability`)
+
+<p align="center">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190704114709/Inheritance-3.jpg" width="250" />
 </p>
