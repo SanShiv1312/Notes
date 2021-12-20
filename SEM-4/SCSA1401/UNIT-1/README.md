@@ -22,7 +22,7 @@
 ### -> **Class** :
 A class is a `blueprint` for creating objects. It can also be stated as a "template for the objects"
 - It is a user-defined type that describes what a certain type of object will look like
-- Collection of objects is called class. It is a `logical entity`.
+- Collection of objects having same characteristic properties that exhibit common behavior is called class. It is a `logical entity`.
 - Class doesn't consume the space and is used for declaring and creating the objects.
 
 
@@ -42,4 +42,3 @@ records, fields, files, forms, an invoice, etc.
 
 - here, `Class` is the thing or domain called 'Car' and is demonstrating how a normal car should look like
     - and there goes three different things, (_`Object`_) following how a 'Car' should be and with different attribute(color)
-    
