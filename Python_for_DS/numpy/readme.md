@@ -34,4 +34,4 @@ otherwise we can also use other the other way of importing numpy as np as below
 import numpy as np
 ```
 
-##### will start numpy and ds soon :(
+##### will start numpy and ds soon :( .
