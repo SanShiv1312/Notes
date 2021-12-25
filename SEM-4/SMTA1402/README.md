@@ -171,3 +171,8 @@ associated with Bi, then
 </p>
 
 * Essentially, the Bayes’ theorem describes the probability of an event based on prior knowledge of the conditions that might be relevant to the event
+
+Example for `Baye's Theorem` :
+<p>
+<img src="https://imgur.com/Z61spVD.jpg" width = "300"/>
+</p>
