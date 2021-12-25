@@ -153,3 +153,8 @@ For any two events A and B in a sample space(S),
 <p align = center>
 <img src="https://imgur.com/12OZi5G.png" width="250"/>
 </p>
+
+#### -> `Baye's Theorem` : 
+Statement: If B1, B2, B3, ….Bn be a set of exhaustive and mutually exclusive
+events associated with a random experiment and A is another event
+associated with Bi, then 
