@@ -162,3 +162,4 @@ associated with Bi, then
 <p align = center>
 <img src="https://cdn.hswstatic.com/gif/bayes-theorem-2.jpg" width="250"/>
 </p>
+Essentially, the Bayes’ theorem describes the probability of an event based on prior knowledge of the conditions that might be relevant to the event
