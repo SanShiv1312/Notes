@@ -159,3 +159,6 @@ Statement: If B1, B2, B3, ….Bn be a set of exhaustive and mutually exclusive
 events associated with a random experiment and A is another event
 associated with Bi, then 
 ![baye's theorem](https://imgur.com/QTEm91g.png) 
+<p align = center>
+<img src="https://cdn.hswstatic.com/gif/bayes-theorem-2.jpg" width="250"/>
+</p>
