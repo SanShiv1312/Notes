@@ -67,7 +67,9 @@ number satisfying the following axioms.
 - p(Ei) >= 0
 - 0 <= P(E) <= 1
 - P(S) = 1 and p(Φ) = 0
-- If A and B are mutually exclusive events or disjoint then, `P(A U B) = P(A) + P(B)`
+- If A and B are mutually exclusive events or disjoint then, 
+
+      P(A U B) = P(A) + P(B)
 
 ### ->**Basic types of events**
 
@@ -135,7 +137,8 @@ Here, A and its compliment A' are `mutually exclusive`.
 
 #### -->**Theorem-3** : `Addition Theorem`
 For any two events A and B in a sample space(S),
-* `P(A U B) = P(A) + P(B) - P(A U B)`
+
+    P(A U B) = P(A) + P(B) - P(A U B)
 
 - _**Proof**_ : (kindly tap on the image below)
 
