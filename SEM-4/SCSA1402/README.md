@@ -12,3 +12,6 @@ Specification dealing how a set of software and hardware technology standards in
 Von-Neumann proposed his computer architecture design in 1945 which was later known as **Von-Neumann Architecture**. It consisted of a `Control Unit`, `Arithmetic`, and `Logical Memory Unit` (ALU), `Registers` and `Inputs/Outputs`.
 
 Von Neumann architecture is based on the stored-program computer concept, where instruction data and program data are stored in the same memory. This design is still used in most computers produced today.
+
+
+![VON NEUMANN MODEL](https://static.javatpoint.com/tutorial/coa/images/von-neumann-model.png)
