@@ -67,3 +67,4 @@ Registers refer to high-speed storage areas in the CPU. The data processed by th
 
 Following is the list of registers that plays a crucial role in data processing
 
+![Types](https://imgur.com/xDieCk7.jpg) 
