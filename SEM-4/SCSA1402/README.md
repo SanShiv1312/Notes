@@ -44,8 +44,12 @@ The Arithmetic and Logic Unit (ALU) performs the required micro-operations for e
 ![ALU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqETcmGHdkc3V-N1NciFZQbG21TqAXyiSERA&usqp=CAU) 
 
 ### **Control Unit (CU)** : 
-The Control Unit of a computer system controls the operations of components like ALU, memory and input/output devices.
+The Control Unit of a computer system `controls the operations of components` like ALU, memory and input/output devices.
 
 The Control Unit consists of a program counter that contains the address of the instructions to be fetched and an instruction register into which instructions are fetched from memory for execution.
 
+- The Control Unit of CPU `regulates and integrates` the operations of the computer. 
+
 - The control unit also provides the timing and control signals required by other computer components. 
+- It directs the `flow of data` between the CPU and the other devices. 
+- It selects and retrieves instructions from the main memory in proper sequence and interprets them so as to activate the other functional elements of the system at the appropriate moment to perform their respective operations
