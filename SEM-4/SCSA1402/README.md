@@ -61,8 +61,9 @@ The Control Unit consists of a program counter that contains the address of the 
 ### **Registers** : 
 Registers refer to high-speed storage areas in the CPU. The data processed by the CPU are fetched from the registers. 
 
- Registers are also referred as `temporary storage locations` inside the CPU that hold data and addresses
+ - Registers are also referred as `temporary storage locations` inside the CPU that hold data and addresses.
 
 - All data must be stored in a register before it can be processed.
 
 Following is the list of registers that plays a crucial role in data processing
+
