@@ -59,14 +59,22 @@ The Control Unit consists of a program counter that contains the address of the 
 </p> 
 
 ### **Registers** : 
+
+Registers are a type of computer memory used to quickly accept, store, and transfer data and instructions that are being used immediately by the CPU
+
 Registers refer to high-speed storage areas in the CPU. The data processed by the CPU are fetched from the registers. 
 
  - Registers are also referred as `temporary storage locations` inside the CPU that hold data and addresses.
 
 - All data must be stored in a register before it can be processed.
 
+- Registers provides storage internal to the CPU. 
+
 Following is the list of registers that plays a crucial role in data processing
 
-![Types](https://imgur.com/xDieCk7.jpg) 
+![Types](https://imgur.com/xDieCk7.jpg)    
 
-- Registers provides storage internal to the CPU.  
+### **Buses** : 
+Buses are the means by which data is transmitted from one part of a computer to another, connecting all major internal components to the CPU and memory.
+
+- Buses are used to send control signals and data between the processor and other components 
