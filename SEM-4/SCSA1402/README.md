@@ -77,4 +77,10 @@ Following is the list of registers that plays a crucial role in data processing
 ### **Buses** : 
 Buses are the means by which data is transmitted from one part of a computer to another, connecting all major internal components to the CPU and memory.
 
-- Buses are used to send control signals and data between the processor and other components 
+- Buses are used to `send control signals` and `data` between the processor and other components 
+
+- **Address bus** - carries memory addresses from the processor to other components such as primary storage and input/output devices. The address bus is unidirectional.
+
+- **Data bus** - carries the data between the processor and other components. The data bus is bidirectional.
+
+- **Control bus** - carries control signals from the processor to other components. The control bus also carries the clock's pulses. The control bus is unidirectional.
