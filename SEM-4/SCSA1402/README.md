@@ -83,4 +83,7 @@ Buses are the means by which data is transmitted from one part of a computer to 
 
 - **Data bus** - carries the data between the processor and other components. The data bus is bidirectional.
 
-- **Control bus** - carries control signals from the processor to other components. The control bus also carries the clock's pulses. The control bus is unidirectional.
+- **Control bus** - carries control signals from the processor to other components. The control bus also carries the clock's pulses. The control bus is unidirectional. 
+
+![Types_of_buses](https://datacadamia.com/_media/data_storage/system_bus.jpg?cache=)
+
