@@ -67,7 +67,7 @@ number satisfying the following axioms.
 - p(Ei) >= 0
 - 0 <= P(E) <= 1
 - P(S) = 1 and p(Φ) = 0
-- If A and B are mutually exclusive events or disjoint then, 
+- If A and B are mutually exclusive events or disjoint then,
 
       P(A U B) = P(A) + P(B)
 
@@ -157,20 +157,20 @@ For any two events A and B in a sample space(S),
 <img src="https://imgur.com/12OZi5G.png" width="250"/>
 </p>
 
-#### -> `Baye's Theorem` : 
+#### -> `Baye's Theorem` :
 Statement: If B1, B2, B3, ….Bn be a set of exhaustive and mutually exclusive
 events associated with a random experiment and A is another event
-associated with Bi, then 
+associated with Bi, then
 <p align = center>
 <img src="https://imgur.com/QTEm91g.png" width="250"/>
-</p> 
+</p>
 
-- In other way, Baye's theorem can be stated as 
+- In other way, Baye's theorem can be stated as
 <p align = center>
 <img src="https://cdn.hswstatic.com/gif/bayes-theorem-2.jpg" width="250"/>
 </p>
 
-* Essentially, the Bayes’ theorem describes the probability of an event based on prior knowledge of the conditions that might be relevant to the event
+* Essentially, the Bayes’ theorem describes the probability of an event based on prior knowledge of the conditions that might be relevant to the event.
 
 Example for **Baye's Theorem** :
 <p>
