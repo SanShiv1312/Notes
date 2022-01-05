@@ -26,6 +26,19 @@ A class is a `blueprint` for creating objects. It can also be stated as a "templ
 - Class doesn't consume the space and is used for declaring and creating the objects.
 
 
+### --> **Class Diagram** : 
+The Class Digram is the main building block of object-oriented modeling 
+
+- A class diagram resembles a flowchart in which classes are portrayed as boxes, each box having three rectangles inside. The top rectangle contains the name of the class; the middle rectangle contains the attributes of the class; the lower rectangle contains the methods, also called operations, of the class. 
+- A Class Diagram is a diagram describing the structure of a system that represents 
+   * Classes 
+   * Attributes 
+   * Operations(methods)
+   * Relationship between the classes 
+
+![class diagram](https://www.tutorialspoint.com/uml/images/notation_class.jpg)
+
+
 ### -> **OBJECT** :
 Object is an `instance of a class`. An object in OOPS is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful. An Object is anything, real or abstract, about which we store data and
 those methods that manipulate the data.
