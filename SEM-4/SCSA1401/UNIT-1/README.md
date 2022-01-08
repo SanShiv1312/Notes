@@ -74,7 +74,7 @@ Mechanism of `deriving a class` from another class for a hierarchy of classes th
 already have and can reuse what we already have(`Reusability`)
 
 <p align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190704114709/Inheritance-3.jpg" width="250" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190704114709/Inheritance-3.jpg" width="240" />
 </p>
 
 ### -> **POLYMORPHISM** :
