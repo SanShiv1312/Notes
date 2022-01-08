@@ -71,7 +71,7 @@ Encapsulation is the process of `binding` both attributes and methods together w
 Mechanism of `deriving a class` from another class for a hierarchy of classes that share a set of attributes and methods. Or like basing an object or class upon another object or class, retaining similar implementation and methodology.
 - A class can get some of its characteristics from a parent class and then add unique features of its own.
 - The real advantage of inheritance is that we can build upon what we
-already have and can reuse what we already have(`Reusability`)
+already have and can reuse what we already have.(`Reusability`)
 
 <p align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190704114709/Inheritance-3.jpg" width="240" />
