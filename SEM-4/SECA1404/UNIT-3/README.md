@@ -13,6 +13,13 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/PPI8255.png" width="180"/>
 </p> 
 
+#### `Description of pins in 8255 PPI`
+
+- ***PA0 to PA7*** - Pins of port-A, they are equally distributed on either sides at the top of 8255IC. The keys 1 to 4 and 37 to 40 are the pins devoted for port A.
+
+- ***PB0 to PB7*** - Pins of port-B, keys 18 to 25 are the pins that carry the data of port B. 
+
+- ***PC0 to PC7*** -  Pins of port-C, they are further classified into Port C upper pins and lower pins 
 
 
 
