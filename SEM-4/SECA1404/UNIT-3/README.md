@@ -10,7 +10,7 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 #### **PIN DIAGRAM OF 8255 PPI** 
 <p align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/PPI8255.png" width="150"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/PPI8255.png" width="180"/>
 </p> 
 
 
