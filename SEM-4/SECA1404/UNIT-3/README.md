@@ -1,6 +1,6 @@
 # **`INTERFACING`**
 
-### **`PROGRAMMABLE PERIPHERAL INTERFACE 8255`**
+## **`PROGRAMMABLE PERIPHERAL INTERFACE 8255`**
 
 PPI 8255 is a general purpose programmable I/O device designed to interface the CPU with its outside world such as ADC, DAC, keyboard etc. We can program it according to the given condition. It can be used with almost any microprocessor.
 - It is a `40-pin` IC and operates in `+5V` regulated power supply(DC).
@@ -8,7 +8,7 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 - IC8255 acts as an `interface` between the MP(microprocessor) and the I/O(input/output) device.
 - I/O ports are further divided into three `bi-directional` ports i.e. **PORT A, PORT B and PORT C** (8 pins each).  
 
-#### **PIN DIAGRAM OF 8255 PPI** 
+### **`PIN DIAGRAM OF 8255 PPI`** 
 <p align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/PPI8255.png" width="180"/>
 </p> 
@@ -19,7 +19,7 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 - ***PB0 to PB7*** - Pins of port-B, keys 18 to 25 are the pins that carry the data of port B. 
 
-- ***PC0 to PC7*** -  Pins of port-C, they are further classified into Port C upper pins and lower pins 
+- ***PC0 to PC7*** -  Pins of port-C, they are further classified into Port C lower pins(PC0-PC3) and upper pins(PC4-PC7). 
 
 
 
