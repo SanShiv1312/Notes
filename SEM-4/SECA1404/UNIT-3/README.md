@@ -21,7 +21,11 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 - `PC0 to PC7` -  Pins of port-C, they are further classified into Port C lower pins(PC0-PC3) and upper pins(PC4-PC7). 
 
-- `D0 to D7` – Data pins for the transfer of data. 
+- `D0 to D7` – Data pins for the transfer of data.
+
+- `RESET` - Reset input, This is an **active high signal**. It clears the control register and sets all ports in the input mode.
+
+- 
 
 
 
