@@ -25,7 +25,10 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 - `RESET` - Reset input, This is an **active high signal**. It clears the control register and sets all ports in the input mode.
 
-- 
+- `RD'` - Read input, this control signal enables the Read operation. When the signal is low, the microprocessor reads the data from the selected I/O port of the 8255.
+
+- `WR'` - Write input, this control signal enables the write operation. When this signal goes low, the microprocessor writes into a selected I/O port or control register.
+
 
 
 
