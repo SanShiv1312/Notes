@@ -38,7 +38,6 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 When the input is `LOW(0)`, it selects the chip and operation of ports, that results in enabling the communication between the 8255A and the CPU.
 It will not select the ports if the input is high(1). 
 
--
 
 
 
