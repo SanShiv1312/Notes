@@ -31,6 +31,11 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 - `VCC` - *Voltage Common Collector*, it is the power input of a device.(+5V for 8255 PPI). 
 
+- `CS` - *Chip Select*,
+When the input is `LOW(0)`, it selects the chip and operation of ports, that results in enabling the communication between the 8255A and the CPU.
+It will not select the ports if the input is high(1). 
+ 
+
 
 
 
