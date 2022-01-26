@@ -32,17 +32,10 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 - `VCC` - *Voltage Common Collector*, it is the power input of a device.(+5V for 8255 PPI). 
 
-- `GND` - *Ground*, it is like a reference point for all signals. Can also be termed as commnon drain or sink   
+- `GND` - *Ground*, it is like a reference point for all signals. Can also be termed as commnon drain or sink. It is connected to the common ground of the circuit.  
 
 - `CS` - *Chip Select*,
-When the input is `LOW(0)`, it selects the chip and operation of ports, that results in enabling the communication between the 8255A and the CPU.
-It will not select the ports if the input is high(1). 
-
-
-
-
-
-
-
+This is an `active low` input pin. When the input is `LOW(0)`, it selects the chip and operation of ports, that results in enabling the communication between the 8255A and the CPU. It will not select the ports if the input is high(1). 
 
 ![ppi](https://www.tutorialspoint.com/assets/questions/media/19061/functional_pin_diagram.jpg)
+
