@@ -6,7 +6,8 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 - It is a `40-pin` IC and operates in `+5V` regulated power supply(DC).
 - It is a `dual in-line package` that means it will have the equal number of pins on either sides(20 each).
 - IC8255 acts as an `interface` between the MP(microprocessor) and the I/O(input/output) device.
-- I/O ports are further divided into three `bi-directional` ports i.e. **PORT A, PORT B and PORT C** (8 pins each).  
+- I/O ports are further divided into three `bi-directional` ports i.e. **PORT A, PORT B and PORT C** (8 pins each). 
+- The most important feature of 8255 is that it is `‘programmable’`. This means that the operation of 8255 can be controlled by programming the microprocessor appropriately.
 
 ### **`PIN DIAGRAM OF 8255 PPI`** 
 <p align="center">
@@ -31,10 +32,14 @@ PPI 8255 is a general purpose programmable I/O device designed to interface the 
 
 - `VCC` - *Voltage Common Collector*, it is the power input of a device.(+5V for 8255 PPI). 
 
+- `GND` - *Ground*, it is like a reference point for all signals. Can also be termed as commnon drain or sink   
+
 - `CS` - *Chip Select*,
 When the input is `LOW(0)`, it selects the chip and operation of ports, that results in enabling the communication between the 8255A and the CPU.
 It will not select the ports if the input is high(1). 
- 
+
+-
+
 
 
 
