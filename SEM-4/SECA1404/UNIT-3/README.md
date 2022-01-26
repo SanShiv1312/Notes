@@ -39,3 +39,7 @@ This is an `active low` input pin. When the input is `LOW(0)`, it selects the ch
 
 ![ppi](https://www.tutorialspoint.com/assets/questions/media/19061/functional_pin_diagram.jpg)
 
+### **Block diagram and internal structure of 8255** 
+
+![block_diagram](https://i1.wp.com/technobyte.org/wp-content/uploads/2020/05/8255-block-diagram.png?w=600&ssl=1)
+
