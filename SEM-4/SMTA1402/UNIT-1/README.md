@@ -36,7 +36,7 @@ The Experiments which have only one possible result or outcome i.e. whose result
 </p>  
 
 #### -->**Probabilistic Experiment** :
-Experiments whose result is uncertain or unpredictable.
+Experiments whose result is `uncertain or unpredictable`.
 - Also known as "Indeterministic Experiments"
 - The different possible outcomes can be known or assessed and the outcomes cannot be predicted prior to it's conduct.
 - This can have more than one possible outcome.   
@@ -112,10 +112,10 @@ Events are called as Exhaustive, if at least one of them necessarily occurs when
 - _**Proof**_ :
 Let S be sample space (certain events) and Φ be the impossible event
  * we know that, **Certain events and impossible events are mutually exclusive**
-- P(S U Φ) = P(S) + P(Φ) (mutual exclusivity)
-- [S U Φ = S]
-- => P(S) = P(S) + P(Φ)
-- => P(Φ) = 0 //
+    *  P(S U Φ) = P(S) + P(Φ) (mutual exclusivity)
+    * As,  [S U Φ = S]
+    * =>  P(S) = P(S) + P(Φ)
+    * =>  P(Φ) = 0 //
 **hence proved**
 
 <p align = center>
