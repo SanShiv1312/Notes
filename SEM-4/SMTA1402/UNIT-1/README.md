@@ -16,10 +16,10 @@ then,
 ### ->**Event** :
 A probability event can be defined as a `set of outcomes` of an experiment
 - A sub-set of Sample space(S) consisting of possible outcomes.
-- * _**Example** :_
+- *  _**Example** :_
 "Getting one tail" (From the above given example)
-- *  "E1" = { HT, TH, TT}
-- * n(E1) = 3
+  *  "E1" = { HT, TH, TT}
+  * n(E1) = 3
 
 
 Based on number of possible results in an experiment, we can classify  the experiments as two types
@@ -176,3 +176,4 @@ Example for **Baye's Theorem** :
 <p>
 <img src="https://imgur.com/Z61spVD.jpg" width = "300"/>
 </p>
+
